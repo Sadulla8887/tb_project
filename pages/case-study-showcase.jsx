@@ -56,6 +56,11 @@ export default function CaseStudyShowcase() {
       imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_fonari_svet_913138_1920x1080.jpg',
       href: '/case-study-details7',
     },
+    {
+      title: '9.Ўрта оғир <br />”Қарши МТУ”',
+      imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_fonari_svet_913138_1920x1080.jpg',
+      href: '/case-study-details8',
+    },
    
   ];
   return (
