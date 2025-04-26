@@ -52,7 +52,7 @@ export default function Home() {
           btnLink=""
           scrollDownId="#service"
           heroSocialLinks={heroSocialLinks}
-          bgImageUrl="https://w.forfun.com/fetch/7a/7adb5ce5e116ca91251a4ef6d147287e.jpeg"
+          bgImageUrl="/images/afrosiyob.jpg"
         />
         <Spacing lg="125" md="70" />
         <MovingText text="Sizning hayotingiz biz uchun muhim" />
