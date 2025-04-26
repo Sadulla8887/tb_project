@@ -17,49 +17,39 @@ export default function CaseStudyShowcase() {
 
   const showcaseData = [
     {
-      title: '	1.Оғир <br/>”Тошкент МТУ” ',
+      title: '	1.Оғир <br/>',
       imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_relsy_rassvet_1217626_1920x1080.jpg',
       href: '/case-study-details',
     },
     {
-      title: '2.Ўрта Оғир<br/>”Қўқон МТУ” ',
+      title: '2.Ўрта Оғир<br/>',
       imgUrl: 'https://kartinki.pics/pics/uploads/posts/2022-08/thumbs/1661167847_52-kartinkin-net-p-zheleznaya-doroga-oboi-krasivo-68.jpg',
       href: '/case-study-details1',
     },
     {
-      title: '3.Оғир <br />”Термиз МТУ”',
+      title: '3.Оғир <br />',
       imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_derevia_solnechnyj_svet_903684_1920x1080.jpg',
       href: '/case-study-details2',
     },
     {
-      title: '4.Ўлим   <br />”Тошкент МТУ”',
+      title: '4.Оғир бўлмган<br />',
       imgUrl: 'https://images.wallpaperscraft.ru/image/single/stolby_fonari_derevia_891332_1920x1080.jpg',
       href: '/case-study-details3',
     },
     {
-      title: '5.Гуруҳий  <br />”Термиз МТУ”',
+      title: '5.Ўрта оғир<br />',
       imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_fonari_svet_913138_1920x1080.jpg',
       href: '/case-study-details4',
     },
     {
-      title: ' 6.Оғир <br />”Тошкент МТУ”',
+      title: ' 6.Оғир <br />',
       imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_fonari_svet_913138_1920x1080.jpg',
       href: '/case-study-details5',
     },
     {
-      title: '7.Ўрта оғир <br />”Қўнғирот МТУ”',
+      title: '7.Ўлим<br />',
       imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_fonari_svet_913138_1920x1080.jpg',
       href: '/case-study-details6',
-    },
-    {
-      title: '8.Ўрта оғир <br />”Қарши МТУ”',
-      imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_fonari_svet_913138_1920x1080.jpg',
-      href: '/case-study-details7',
-    },
-    {
-      title: '9.Ўрта оғир <br />”Қарши МТУ”',
-      imgUrl: 'https://images.wallpaperscraft.ru/image/single/zheleznaia_doroga_fonari_svet_913138_1920x1080.jpg',
-      href: '/case-study-details8',
     },
    
   ];
